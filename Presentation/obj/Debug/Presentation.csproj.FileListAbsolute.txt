@@ -1,0 +1,56 @@
+c:\users\busra\documents\visual studio 2013\Projects\ProAssistant\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\bin\Debug\Presentation.exe
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\bin\Debug\Presentation.pdb
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.Anasayfa.resources
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.BitisOnay.resources
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.Developerlar.resources
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.Giris.resources
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.Incele.resources
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.KayitOl.resources
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.ProfiliDuzenle.resources
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.ProjeEkle.resources
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.ProjeYonetim.resources
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.UyeEkle.resources
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.exe
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.pdb
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\bin\Debug\BussinesLogicLayer.dll
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\bin\Debug\Entity.dll
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\bin\Debug\DataAccessLayer.dll
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\bin\Debug\BussinesLogicLayer.pdb
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\bin\Debug\Entity.pdb
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\bin\Debug\DataAccessLayer.pdb
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.RaporAl.resources
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Presentation\obj\Debug\Presentation.TumKullanicilar.resources
+C:\Users\Wissen\Desktop\Yeni klasör (3)\ProAssistant\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Wissen\Desktop\Yeni klasör (3)\ProAssistant\Presentation\obj\Debug\Presentation.exe
+C:\Users\Wissen\Desktop\Yeni klasör (3)\ProAssistant\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.exe
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\bin\Debug\Presentation.exe
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\bin\Debug\BussinesLogicLayer.dll
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\bin\Debug\Entity.dll
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\bin\Debug\DataAccessLayer.dll
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\bin\Debug\BussinesLogicLayer.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\bin\Debug\Entity.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\bin\Debug\DataAccessLayer.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.Anasayfa.resources
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.BitisOnay.resources
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.Developerlar.resources
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.Giris.resources
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.Incele.resources
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.KayitOl.resources
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.ProfiliDuzenle.resources
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.ProjeEkle.resources
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.ProjeYonetim.resources
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.RaporAl.resources
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.TumKullanicilar.resources
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.UyeEkle.resources
+C:\Users\Wissen\Source\Repos\proAssistant\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache

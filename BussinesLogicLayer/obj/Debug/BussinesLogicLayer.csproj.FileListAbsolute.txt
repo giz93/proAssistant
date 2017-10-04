@@ -1,0 +1,18 @@
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\BussinesLogicLayer\bin\Debug\BussinesLogicLayer.dll
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\BussinesLogicLayer\bin\Debug\BussinesLogicLayer.pdb
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\BussinesLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\BussinesLogicLayer\bin\Debug\Entity.dll
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\BussinesLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\BussinesLogicLayer\bin\Debug\Entity.pdb
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.dll
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\BussinesLogicLayer\bin\Debug\BussinesLogicLayer.dll
+C:\Users\Wissen\Source\Repos\proAssistant\BussinesLogicLayer\bin\Debug\BussinesLogicLayer.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\BussinesLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Wissen\Source\Repos\proAssistant\BussinesLogicLayer\bin\Debug\Entity.dll
+C:\Users\Wissen\Source\Repos\proAssistant\BussinesLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\BussinesLogicLayer\bin\Debug\Entity.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Source\Repos\proAssistant\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.dll
+C:\Users\Wissen\Source\Repos\proAssistant\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.pdb

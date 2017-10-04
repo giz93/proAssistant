@@ -1,0 +1,10 @@
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Wissen\Source\Repos\proAssistant\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Source\Repos\proAssistant\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Wissen\Source\Repos\proAssistant\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

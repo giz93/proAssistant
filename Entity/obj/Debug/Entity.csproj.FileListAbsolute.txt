@@ -1,0 +1,10 @@
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Entity\bin\Debug\Entity.dll
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Entity\bin\Debug\Entity.pdb
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Entity\obj\Debug\Entity.dll
+C:\Users\busra\Documents\Visual Studio 2017\Projects\ProAssistant\Entity\obj\Debug\Entity.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\Entity\bin\Debug\Entity.dll
+C:\Users\Wissen\Source\Repos\proAssistant\Entity\bin\Debug\Entity.pdb
+C:\Users\Wissen\Source\Repos\proAssistant\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Source\Repos\proAssistant\Entity\obj\Debug\Entity.dll
+C:\Users\Wissen\Source\Repos\proAssistant\Entity\obj\Debug\Entity.pdb
